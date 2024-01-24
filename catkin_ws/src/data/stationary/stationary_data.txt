@@ -1,0 +1,5055 @@
+header: 
+  seq: 0
+  stamp: 
+    secs: 1695770054
+    nsecs: 463983774
+  frame_id: ''
+time: 231415.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 0
+  stamp: 
+    secs: 1695770057
+    nsecs: 474596023
+  frame_id: ''
+time: 231416.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 1
+  stamp: 
+    secs: 1695770058
+    nsecs: 980498075
+  frame_id: ''
+time: 231417.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 2
+  stamp: 
+    secs: 1695770060
+    nsecs: 486746311
+  frame_id: ''
+time: 231418.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 3
+  stamp: 
+    secs: 1695770061
+    nsecs: 992708683
+  frame_id: ''
+time: 231419.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 4
+  stamp: 
+    secs: 1695770063
+    nsecs: 498619556
+  frame_id: ''
+time: 231420.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 5
+  stamp: 
+    secs: 1695770066
+    nsecs: 509941101
+  frame_id: ''
+time: 231421.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 6
+  stamp: 
+    secs: 1695770068
+    nsecs:  15983343
+  frame_id: ''
+time: 231422.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 7
+  stamp: 
+    secs: 1695770069
+    nsecs: 522061347
+  frame_id: ''
+time: 231423.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 8
+  stamp: 
+    secs: 1695770071
+    nsecs:  28184652
+  frame_id: ''
+time: 231424.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 9
+  stamp: 
+    secs: 1695770072
+    nsecs: 534257650
+  frame_id: ''
+time: 231425.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 10
+  stamp: 
+    secs: 1695770075
+    nsecs: 544233322
+  frame_id: ''
+time: 231426.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 11
+  stamp: 
+    secs: 1695770077
+    nsecs:  50185441
+  frame_id: ''
+time: 231427.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 12
+  stamp: 
+    secs: 1695770078
+    nsecs: 556035757
+  frame_id: ''
+time: 231428.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 13
+  stamp: 
+    secs: 1695770080
+    nsecs:  61887264
+  frame_id: ''
+time: 231429.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 14
+  stamp: 
+    secs: 1695770081
+    nsecs: 567768335
+  frame_id: ''
+time: 231430.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 15
+  stamp: 
+    secs: 1695770084
+    nsecs: 577905654
+  frame_id: ''
+time: 231431.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 16
+  stamp: 
+    secs: 1695770086
+    nsecs:  83839893
+  frame_id: ''
+time: 231432.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 17
+  stamp: 
+    secs: 1695770087
+    nsecs: 589718103
+  frame_id: ''
+time: 231433.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 18
+  stamp: 
+    secs: 1695770089
+    nsecs:  95583438
+  frame_id: ''
+time: 231434.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 19
+  stamp: 
+    secs: 1695770090
+    nsecs: 601684570
+  frame_id: ''
+time: 231435.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 20
+  stamp: 
+    secs: 1695770093
+    nsecs: 613287448
+  frame_id: ''
+time: 231436.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 21
+  stamp: 
+    secs: 1695770095
+    nsecs: 120019435
+  frame_id: ''
+time: 231437.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 22
+  stamp: 
+    secs: 1695770096
+    nsecs: 626738786
+  frame_id: ''
+time: 231438.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 23
+  stamp: 
+    secs: 1695770098
+    nsecs: 133527755
+  frame_id: ''
+time: 231439.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 24
+  stamp: 
+    secs: 1695770099
+    nsecs: 640403270
+  frame_id: ''
+time: 231440.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 25
+  stamp: 
+    secs: 1695770102
+    nsecs: 652089595
+  frame_id: ''
+time: 231441.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 26
+  stamp: 
+    secs: 1695770104
+    nsecs: 158868074
+  frame_id: ''
+time: 231442.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 27
+  stamp: 
+    secs: 1695770105
+    nsecs: 665762901
+  frame_id: ''
+time: 231443.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 28
+  stamp: 
+    secs: 1695770107
+    nsecs: 171854257
+  frame_id: ''
+time: 231444.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 29
+  stamp: 
+    secs: 1695770108
+    nsecs: 678689718
+  frame_id: ''
+time: 231445.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 30
+  stamp: 
+    secs: 1695770111
+    nsecs: 690593719
+  frame_id: ''
+time: 231446.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 31
+  stamp: 
+    secs: 1695770113
+    nsecs: 197355508
+  frame_id: ''
+time: 231447.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 32
+  stamp: 
+    secs: 1695770114
+    nsecs: 704458713
+  frame_id: ''
+time: 231448.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 33
+  stamp: 
+    secs: 1695770116
+    nsecs: 211157321
+  frame_id: ''
+time: 231449.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 34
+  stamp: 
+    secs: 1695770117
+    nsecs: 717907905
+  frame_id: ''
+time: 231450.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 35
+  stamp: 
+    secs: 1695770120
+    nsecs: 729636430
+  frame_id: ''
+time: 231451.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 36
+  stamp: 
+    secs: 1695770122
+    nsecs: 236446142
+  frame_id: ''
+time: 231452.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 37
+  stamp: 
+    secs: 1695770123
+    nsecs: 743166208
+  frame_id: ''
+time: 231453.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 38
+  stamp: 
+    secs: 1695770125
+    nsecs: 249850034
+  frame_id: ''
+time: 231454.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 39
+  stamp: 
+    secs: 1695770126
+    nsecs: 756476163
+  frame_id: ''
+time: 231455.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 40
+  stamp: 
+    secs: 1695770129
+    nsecs: 768096208
+  frame_id: ''
+time: 231456.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 41
+  stamp: 
+    secs: 1695770131
+    nsecs: 274870157
+  frame_id: ''
+time: 231457.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 42
+  stamp: 
+    secs: 1695770132
+    nsecs: 781906366
+  frame_id: ''
+time: 231458.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 43
+  stamp: 
+    secs: 1695770134
+    nsecs: 288604736
+  frame_id: ''
+time: 231459.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 44
+  stamp: 
+    secs: 1695770135
+    nsecs: 795355796
+  frame_id: ''
+time: 231500.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 45
+  stamp: 
+    secs: 1695770138
+    nsecs: 808134794
+  frame_id: ''
+time: 231501.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 46
+  stamp: 
+    secs: 1695770140
+    nsecs: 314854145
+  frame_id: ''
+time: 231502.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 47
+  stamp: 
+    secs: 1695770141
+    nsecs: 821438550
+  frame_id: ''
+time: 231503.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 48
+  stamp: 
+    secs: 1695770143
+    nsecs: 328151226
+  frame_id: ''
+time: 231504.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 49
+  stamp: 
+    secs: 1695770144
+    nsecs: 835250139
+  frame_id: ''
+time: 231505.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 50
+  stamp: 
+    secs: 1695770147
+    nsecs: 847413778
+  frame_id: ''
+time: 231506.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 51
+  stamp: 
+    secs: 1695770149
+    nsecs: 354058265
+  frame_id: ''
+time: 231507.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 52
+  stamp: 
+    secs: 1695770150
+    nsecs: 860831975
+  frame_id: ''
+time: 231508.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 53
+  stamp: 
+    secs: 1695770152
+    nsecs: 367633581
+  frame_id: ''
+time: 231509.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 54
+  stamp: 
+    secs: 1695770153
+    nsecs: 874338626
+  frame_id: ''
+time: 231510.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 55
+  stamp: 
+    secs: 1695770156
+    nsecs: 886048078
+  frame_id: ''
+time: 231511.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 56
+  stamp: 
+    secs: 1695770158
+    nsecs: 392722845
+  frame_id: ''
+time: 231512.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 57
+  stamp: 
+    secs: 1695770159
+    nsecs: 899450302
+  frame_id: ''
+time: 231513.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 58
+  stamp: 
+    secs: 1695770161
+    nsecs: 406101703
+  frame_id: ''
+time: 231514.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 59
+  stamp: 
+    secs: 1695770162
+    nsecs: 912831306
+  frame_id: ''
+time: 231515.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 60
+  stamp: 
+    secs: 1695770165
+    nsecs: 924639701
+  frame_id: ''
+time: 231516.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 61
+  stamp: 
+    secs: 1695770167
+    nsecs: 431613445
+  frame_id: ''
+time: 231517.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 62
+  stamp: 
+    secs: 1695770168
+    nsecs: 938492059
+  frame_id: ''
+time: 231518.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 63
+  stamp: 
+    secs: 1695770170
+    nsecs: 445002079
+  frame_id: ''
+time: 231519.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 64
+  stamp: 
+    secs: 1695770171
+    nsecs: 951395988
+  frame_id: ''
+time: 231520.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 65
+  stamp: 
+    secs: 1695770174
+    nsecs: 963695526
+  frame_id: ''
+time: 231521.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 66
+  stamp: 
+    secs: 1695770176
+    nsecs: 470535755
+  frame_id: ''
+time: 231522.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 67
+  stamp: 
+    secs: 1695770177
+    nsecs: 977750301
+  frame_id: ''
+time: 231523.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 68
+  stamp: 
+    secs: 1695770179
+    nsecs: 484689235
+  frame_id: ''
+time: 231524.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 69
+  stamp: 
+    secs: 1695770180
+    nsecs: 991342782
+  frame_id: ''
+time: 231525.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286
+alt: 60.6
+utm_easting: 325014.81215166696
+utm_northing: 4685294.630297236
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 70
+  stamp: 
+    secs: 1695770184
+    nsecs:   2959728
+  frame_id: ''
+time: 231526.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286166666667
+alt: 60.7
+utm_easting: 325014.67476401373
+utm_northing: 4685294.63372469
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 71
+  stamp: 
+    secs: 1695770185
+    nsecs: 509646177
+  frame_id: ''
+time: 231527.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.122865
+alt: 60.9
+utm_easting: 325014.39998870314
+utm_northing: 4685294.640579608
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 72
+  stamp: 
+    secs: 1695770187
+    nsecs:  16330480
+  frame_id: ''
+time: 231528.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286666666667
+alt: 61.0
+utm_easting: 325014.26260105206
+utm_northing: 4685294.644007071
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 73
+  stamp: 
+    secs: 1695770188
+    nsecs: 523100852
+  frame_id: ''
+time: 231529.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12286666666667
+alt: 61.0
+utm_easting: 325014.26260105206
+utm_northing: 4685294.644007071
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 74
+  stamp: 
+    secs: 1695770190
+    nsecs:  29716253
+  frame_id: ''
+time: 231530.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12286666666667
+alt: 61.2
+utm_easting: 325014.25798403803
+utm_northing: 4685294.458937094
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 75
+  stamp: 
+    secs: 1695770193
+    nsecs:  41875123
+  frame_id: ''
+time: 231531.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12286833333333
+alt: 61.4
+utm_easting: 325014.12059637904
+utm_northing: 4685294.462364559
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 76
+  stamp: 
+    secs: 1695770194
+    nsecs: 548714399
+  frame_id: ''
+time: 231532.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12286833333333
+alt: 61.4
+utm_easting: 325014.12059637904
+utm_northing: 4685294.462364559
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 77
+  stamp: 
+    secs: 1695770196
+    nsecs:  55402994
+  frame_id: ''
+time: 231533.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12286833333333
+alt: 61.5
+utm_easting: 325014.12059637904
+utm_northing: 4685294.462364559
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 78
+  stamp: 
+    secs: 1695770197
+    nsecs: 562325000
+  frame_id: ''
+time: 231534.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12286833333333
+alt: 61.5
+utm_easting: 325014.12059637904
+utm_northing: 4685294.462364559
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 79
+  stamp: 
+    secs: 1695770199
+    nsecs:  68834543
+  frame_id: ''
+time: 231535.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 61.7
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 80
+  stamp: 
+    secs: 1695770202
+    nsecs:  80297470
+  frame_id: ''
+time: 231536.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 61.8
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 81
+  stamp: 
+    secs: 1695770203
+    nsecs: 586998701
+  frame_id: ''
+time: 231537.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023666666666
+lon: -71.12287166666667
+alt: 62.0
+utm_easting: 325013.8412040385
+utm_northing: 4685294.284149522
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 82
+  stamp: 
+    secs: 1695770205
+    nsecs:  94236373
+  frame_id: ''
+time: 231538.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023666666666
+lon: -71.12287166666667
+alt: 62.0
+utm_easting: 325013.8412040385
+utm_northing: 4685294.284149522
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 83
+  stamp: 
+    secs: 1695770206
+    nsecs: 600952863
+  frame_id: ''
+time: 231539.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023666666666
+lon: -71.12287166666667
+alt: 62.0
+utm_easting: 325013.8412040385
+utm_northing: 4685294.284149522
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 84
+  stamp: 
+    secs: 1695770208
+    nsecs: 107769966
+  frame_id: ''
+time: 231540.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023666666666
+lon: -71.12287166666667
+alt: 62.0
+utm_easting: 325013.8412040385
+utm_northing: 4685294.284149522
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 85
+  stamp: 
+    secs: 1695770211
+    nsecs: 119375705
+  frame_id: ''
+time: 231541.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023666666666
+lon: -71.12287166666667
+alt: 62.1
+utm_easting: 325013.8412040385
+utm_northing: 4685294.284149522
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 86
+  stamp: 
+    secs: 1695770212
+    nsecs: 626133680
+  frame_id: ''
+time: 231542.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023666666666
+lon: -71.12287333333333
+alt: 62.3
+utm_easting: 325013.7038163779
+utm_northing: 4685294.287576995
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 87
+  stamp: 
+    secs: 1695770214
+    nsecs: 133533716
+  frame_id: ''
+time: 231543.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023666666666
+lon: -71.12287333333333
+alt: 62.3
+utm_easting: 325013.7038163779
+utm_northing: 4685294.287576995
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 88
+  stamp: 
+    secs: 1695770215
+    nsecs: 640602827
+  frame_id: ''
+time: 231544.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023666666666
+lon: -71.12287333333333
+alt: 62.4
+utm_easting: 325013.7038163779
+utm_northing: 4685294.287576995
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 89
+  stamp: 
+    secs: 1695770217
+    nsecs: 147273063
+  frame_id: ''
+time: 231545.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023666666666
+lon: -71.12287333333333
+alt: 62.6
+utm_easting: 325013.7038163779
+utm_northing: 4685294.287576995
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 90
+  stamp: 
+    secs: 1695770220
+    nsecs: 158985137
+  frame_id: ''
+time: 231546.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.122875
+alt: 62.9
+utm_easting: 325013.57104574714
+utm_northing: 4685294.476074449
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 91
+  stamp: 
+    secs: 1695770221
+    nsecs: 665684223
+  frame_id: ''
+time: 231547.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.122875
+alt: 62.8
+utm_easting: 325013.57104574714
+utm_northing: 4685294.476074449
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 92
+  stamp: 
+    secs: 1695770223
+    nsecs: 172455787
+  frame_id: ''
+time: 231548.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.122875
+alt: 63.0
+utm_easting: 325013.5756627793
+utm_northing: 4685294.661144426
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 93
+  stamp: 
+    secs: 1695770224
+    nsecs: 679193496
+  frame_id: ''
+time: 231549.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.122875
+alt: 63.2
+utm_easting: 325013.5756627793
+utm_northing: 4685294.661144426
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 94
+  stamp: 
+    secs: 1695770226
+    nsecs: 186037063
+  frame_id: ''
+time: 231550.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.3
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 95
+  stamp: 
+    secs: 1695770229
+    nsecs: 197810173
+  frame_id: ''
+time: 231551.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.3
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 96
+  stamp: 
+    secs: 1695770230
+    nsecs: 704687595
+  frame_id: ''
+time: 231552.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.12287666666667
+alt: 63.4
+utm_easting: 325013.4428921619
+utm_northing: 4685294.849641881
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 97
+  stamp: 
+    secs: 1695770232
+    nsecs: 211517095
+  frame_id: ''
+time: 231553.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 98
+  stamp: 
+    secs: 1695770233
+    nsecs: 718250989
+  frame_id: ''
+time: 231554.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 99
+  stamp: 
+    secs: 1695770235
+    nsecs: 224991083
+  frame_id: ''
+time: 231555.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.6
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 100
+  stamp: 
+    secs: 1695770238
+    nsecs: 236735820
+  frame_id: ''
+time: 231556.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.6
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 101
+  stamp: 
+    secs: 1695770239
+    nsecs: 743539571
+  frame_id: ''
+time: 231557.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.6
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 102
+  stamp: 
+    secs: 1695770241
+    nsecs: 250967025
+  frame_id: ''
+time: 231558.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.6
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 103
+  stamp: 
+    secs: 1695770242
+    nsecs: 757726669
+  frame_id: ''
+time: 231559.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 104
+  stamp: 
+    secs: 1695770244
+    nsecs: 264476060
+  frame_id: ''
+time: 231600.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 105
+  stamp: 
+    secs: 1695770247
+    nsecs: 275829315
+  frame_id: ''
+time: 231601.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 106
+  stamp: 
+    secs: 1695770248
+    nsecs: 782684326
+  frame_id: ''
+time: 231602.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 107
+  stamp: 
+    secs: 1695770250
+    nsecs: 289185285
+  frame_id: ''
+time: 231603.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 108
+  stamp: 
+    secs: 1695770251
+    nsecs: 795927762
+  frame_id: ''
+time: 231604.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 109
+  stamp: 
+    secs: 1695770253
+    nsecs: 302703380
+  frame_id: ''
+time: 231605.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 110
+  stamp: 
+    secs: 1695770256
+    nsecs: 314338922
+  frame_id: ''
+time: 231606.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 111
+  stamp: 
+    secs: 1695770257
+    nsecs: 821162462
+  frame_id: ''
+time: 231607.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 112
+  stamp: 
+    secs: 1695770259
+    nsecs: 327418565
+  frame_id: ''
+time: 231608.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 113
+  stamp: 
+    secs: 1695770260
+    nsecs: 834200859
+  frame_id: ''
+time: 231609.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 114
+  stamp: 
+    secs: 1695770262
+    nsecs: 340964317
+  frame_id: ''
+time: 231610.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 115
+  stamp: 
+    secs: 1695770265
+    nsecs: 352357864
+  frame_id: ''
+time: 231611.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 116
+  stamp: 
+    secs: 1695770266
+    nsecs: 859179019
+  frame_id: ''
+time: 231612.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 117
+  stamp: 
+    secs: 1695770268
+    nsecs: 365907430
+  frame_id: ''
+time: 231613.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 118
+  stamp: 
+    secs: 1695770269
+    nsecs: 872633934
+  frame_id: ''
+time: 231614.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 119
+  stamp: 
+    secs: 1695770271
+    nsecs: 379335403
+  frame_id: ''
+time: 231615.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 120
+  stamp: 
+    secs: 1695770274
+    nsecs: 390835285
+  frame_id: ''
+time: 231616.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 121
+  stamp: 
+    secs: 1695770275
+    nsecs: 897542953
+  frame_id: ''
+time: 231617.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 122
+  stamp: 
+    secs: 1695770277
+    nsecs: 404222488
+  frame_id: ''
+time: 231618.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 123
+  stamp: 
+    secs: 1695770278
+    nsecs: 910905122
+  frame_id: ''
+time: 231619.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 124
+  stamp: 
+    secs: 1695770280
+    nsecs: 417668342
+  frame_id: ''
+time: 231620.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 125
+  stamp: 
+    secs: 1695770283
+    nsecs: 429330110
+  frame_id: ''
+time: 231621.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 126
+  stamp: 
+    secs: 1695770284
+    nsecs: 936113834
+  frame_id: ''
+time: 231622.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 127
+  stamp: 
+    secs: 1695770286
+    nsecs: 442866086
+  frame_id: ''
+time: 231623.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 128
+  stamp: 
+    secs: 1695770287
+    nsecs: 950276613
+  frame_id: ''
+time: 231624.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 129
+  stamp: 
+    secs: 1695770289
+    nsecs: 457033157
+  frame_id: ''
+time: 231625.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 130
+  stamp: 
+    secs: 1695770292
+    nsecs: 469073057
+  frame_id: ''
+time: 231626.0
+frame_id: "GPS1_FRAME"
+lat: 42.300243333333334
+lon: -71.12287666666667
+alt: 63.5
+utm_easting: 325013.4475091979
+utm_northing: 4685295.03471186
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 131
+  stamp: 
+    secs: 1695770293
+    nsecs: 975806951
+  frame_id: ''
+time: 231627.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 132
+  stamp: 
+    secs: 1695770295
+    nsecs: 482442378
+  frame_id: ''
+time: 231628.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 133
+  stamp: 
+    secs: 1695770296
+    nsecs: 989079236
+  frame_id: ''
+time: 231629.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 134
+  stamp: 
+    secs: 1695770298
+    nsecs: 495828151
+  frame_id: ''
+time: 231630.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 135
+  stamp: 
+    secs: 1695770301
+    nsecs: 507698774
+  frame_id: ''
+time: 231631.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 136
+  stamp: 
+    secs: 1695770303
+    nsecs:  14410018
+  frame_id: ''
+time: 231632.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 137
+  stamp: 
+    secs: 1695770304
+    nsecs: 521100521
+  frame_id: ''
+time: 231633.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 138
+  stamp: 
+    secs: 1695770306
+    nsecs:  27779340
+  frame_id: ''
+time: 231634.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 139
+  stamp: 
+    secs: 1695770307
+    nsecs: 535409450
+  frame_id: ''
+time: 231635.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 140
+  stamp: 
+    secs: 1695770310
+    nsecs: 546552658
+  frame_id: ''
+time: 231636.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 141
+  stamp: 
+    secs: 1695770312
+    nsecs:  53132295
+  frame_id: ''
+time: 231637.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 142
+  stamp: 
+    secs: 1695770313
+    nsecs: 559765577
+  frame_id: ''
+time: 231638.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.5
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 143
+  stamp: 
+    secs: 1695770315
+    nsecs:  66342353
+  frame_id: ''
+time: 231639.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 144
+  stamp: 
+    secs: 1695770316
+    nsecs: 573012828
+  frame_id: ''
+time: 231640.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 145
+  stamp: 
+    secs: 1695770319
+    nsecs: 584214925
+  frame_id: ''
+time: 231641.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 146
+  stamp: 
+    secs: 1695770321
+    nsecs:  90902805
+  frame_id: ''
+time: 231642.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 147
+  stamp: 
+    secs: 1695770322
+    nsecs: 597600460
+  frame_id: ''
+time: 231643.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 148
+  stamp: 
+    secs: 1695770324
+    nsecs: 103831052
+  frame_id: ''
+time: 231644.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 149
+  stamp: 
+    secs: 1695770325
+    nsecs: 610312223
+  frame_id: ''
+time: 231645.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 150
+  stamp: 
+    secs: 1695770328
+    nsecs: 621892452
+  frame_id: ''
+time: 231646.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 151
+  stamp: 
+    secs: 1695770330
+    nsecs: 128558397
+  frame_id: ''
+time: 231647.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 152
+  stamp: 
+    secs: 1695770331
+    nsecs: 634776353
+  frame_id: ''
+time: 231648.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 153
+  stamp: 
+    secs: 1695770333
+    nsecs: 141458511
+  frame_id: ''
+time: 231649.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 154
+  stamp: 
+    secs: 1695770334
+    nsecs: 648589372
+  frame_id: ''
+time: 231650.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 155
+  stamp: 
+    secs: 1695770337
+    nsecs: 659494638
+  frame_id: ''
+time: 231651.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 156
+  stamp: 
+    secs: 1695770339
+    nsecs: 166305303
+  frame_id: ''
+time: 231652.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 157
+  stamp: 
+    secs: 1695770340
+    nsecs: 673032045
+  frame_id: ''
+time: 231653.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 158
+  stamp: 
+    secs: 1695770342
+    nsecs: 179774761
+  frame_id: ''
+time: 231654.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 159
+  stamp: 
+    secs: 1695770343
+    nsecs: 686437845
+  frame_id: ''
+time: 231655.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 160
+  stamp: 
+    secs: 1695770346
+    nsecs: 698194503
+  frame_id: ''
+time: 231656.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 161
+  stamp: 
+    secs: 1695770348
+    nsecs: 204887628
+  frame_id: ''
+time: 231657.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 162
+  stamp: 
+    secs: 1695770349
+    nsecs: 711932420
+  frame_id: ''
+time: 231658.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 163
+  stamp: 
+    secs: 1695770351
+    nsecs: 218732118
+  frame_id: ''
+time: 231659.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 164
+  stamp: 
+    secs: 1695770352
+    nsecs: 725214958
+  frame_id: ''
+time: 231700.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 165
+  stamp: 
+    secs: 1695770355
+    nsecs: 736680030
+  frame_id: ''
+time: 231701.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 166
+  stamp: 
+    secs: 1695770357
+    nsecs: 243385791
+  frame_id: ''
+time: 231702.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 167
+  stamp: 
+    secs: 1695770358
+    nsecs: 749781847
+  frame_id: ''
+time: 231703.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 168
+  stamp: 
+    secs: 1695770360
+    nsecs: 260523796
+  frame_id: ''
+time: 231704.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.4
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 169
+  stamp: 
+    secs: 1695770361
+    nsecs: 767198324
+  frame_id: ''
+time: 231705.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.3
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 170
+  stamp: 
+    secs: 1695770364
+    nsecs: 778631448
+  frame_id: ''
+time: 231706.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.3
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 171
+  stamp: 
+    secs: 1695770366
+    nsecs: 285268068
+  frame_id: ''
+time: 231707.0
+frame_id: "GPS1_FRAME"
+lat: 42.300241666666665
+lon: -71.122875
+alt: 63.2
+utm_easting: 325013.5802798116
+utm_northing: 4685294.8462144025
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 172
+  stamp: 
+    secs: 1695770367
+    nsecs: 791887283
+  frame_id: ''
+time: 231708.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 63.0
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 173
+  stamp: 
+    secs: 1695770369
+    nsecs: 298979282
+  frame_id: ''
+time: 231709.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 174
+  stamp: 
+    secs: 1695770370
+    nsecs: 805732011
+  frame_id: ''
+time: 231710.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 175
+  stamp: 
+    secs: 1695770373
+    nsecs: 817509412
+  frame_id: ''
+time: 231711.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 176
+  stamp: 
+    secs: 1695770375
+    nsecs: 324191093
+  frame_id: ''
+time: 231712.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 177
+  stamp: 
+    secs: 1695770376
+    nsecs: 830808877
+  frame_id: ''
+time: 231713.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 178
+  stamp: 
+    secs: 1695770378
+    nsecs: 337502241
+  frame_id: ''
+time: 231714.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 179
+  stamp: 
+    secs: 1695770379
+    nsecs: 844190359
+  frame_id: ''
+time: 231715.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 180
+  stamp: 
+    secs: 1695770382
+    nsecs: 855805158
+  frame_id: ''
+time: 231716.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 181
+  stamp: 
+    secs: 1695770384
+    nsecs: 362498283
+  frame_id: ''
+time: 231717.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 182
+  stamp: 
+    secs: 1695770385
+    nsecs: 869130134
+  frame_id: ''
+time: 231718.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 183
+  stamp: 
+    secs: 1695770387
+    nsecs: 375908136
+  frame_id: ''
+time: 231719.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 184
+  stamp: 
+    secs: 1695770388
+    nsecs: 882763147
+  frame_id: ''
+time: 231720.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 185
+  stamp: 
+    secs: 1695770391
+    nsecs: 894597530
+  frame_id: ''
+time: 231721.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 186
+  stamp: 
+    secs: 1695770393
+    nsecs: 401343584
+  frame_id: ''
+time: 231722.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 187
+  stamp: 
+    secs: 1695770394
+    nsecs: 908265829
+  frame_id: ''
+time: 231723.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 188
+  stamp: 
+    secs: 1695770396
+    nsecs: 415264368
+  frame_id: ''
+time: 231724.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 189
+  stamp: 
+    secs: 1695770397
+    nsecs: 922055244
+  frame_id: ''
+time: 231725.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 190
+  stamp: 
+    secs: 1695770400
+    nsecs: 933637380
+  frame_id: ''
+time: 231726.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 191
+  stamp: 
+    secs: 1695770402
+    nsecs: 440327405
+  frame_id: ''
+time: 231727.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 192
+  stamp: 
+    secs: 1695770403
+    nsecs: 947050809
+  frame_id: ''
+time: 231728.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 193
+  stamp: 
+    secs: 1695770405
+    nsecs: 453825950
+  frame_id: ''
+time: 231729.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 194
+  stamp: 
+    secs: 1695770406
+    nsecs: 960709810
+  frame_id: ''
+time: 231730.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 195
+  stamp: 
+    secs: 1695770409
+    nsecs: 972465753
+  frame_id: ''
+time: 231731.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 196
+  stamp: 
+    secs: 1695770411
+    nsecs: 479314088
+  frame_id: ''
+time: 231732.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 197
+  stamp: 
+    secs: 1695770412
+    nsecs: 986163854
+  frame_id: ''
+time: 231733.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 198
+  stamp: 
+    secs: 1695770414
+    nsecs: 492957353
+  frame_id: ''
+time: 231734.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 199
+  stamp: 
+    secs: 1695770415
+    nsecs: 999698877
+  frame_id: ''
+time: 231735.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 200
+  stamp: 
+    secs: 1695770419
+    nsecs:  11466026
+  frame_id: ''
+time: 231736.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 201
+  stamp: 
+    secs: 1695770420
+    nsecs: 518312931
+  frame_id: ''
+time: 231737.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 202
+  stamp: 
+    secs: 1695770422
+    nsecs:  25040864
+  frame_id: ''
+time: 231738.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 203
+  stamp: 
+    secs: 1695770423
+    nsecs: 531761884
+  frame_id: ''
+time: 231739.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 204
+  stamp: 
+    secs: 1695770425
+    nsecs:  38822889
+  frame_id: ''
+time: 231740.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 205
+  stamp: 
+    secs: 1695770428
+    nsecs:  50630569
+  frame_id: ''
+time: 231741.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 206
+  stamp: 
+    secs: 1695770429
+    nsecs: 557645320
+  frame_id: ''
+time: 231742.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287333333333
+alt: 62.9
+utm_easting: 325013.7130504347
+utm_northing: 4685294.65771695
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 207
+  stamp: 
+    secs: 1695770431
+    nsecs:  64489364
+  frame_id: ''
+time: 231743.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 208
+  stamp: 
+    secs: 1695770432
+    nsecs: 571111679
+  frame_id: ''
+time: 231744.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 209
+  stamp: 
+    secs: 1695770434
+    nsecs:  77864646
+  frame_id: ''
+time: 231745.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 210
+  stamp: 
+    secs: 1695770437
+    nsecs:  89183807
+  frame_id: ''
+time: 231746.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 211
+  stamp: 
+    secs: 1695770438
+    nsecs: 595488071
+  frame_id: ''
+time: 231747.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 212
+  stamp: 
+    secs: 1695770440
+    nsecs: 102208137
+  frame_id: ''
+time: 231748.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 213
+  stamp: 
+    secs: 1695770441
+    nsecs: 608893394
+  frame_id: ''
+time: 231749.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 214
+  stamp: 
+    secs: 1695770443
+    nsecs: 115615844
+  frame_id: ''
+time: 231750.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 215
+  stamp: 
+    secs: 1695770446
+    nsecs: 127397060
+  frame_id: ''
+time: 231751.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 216
+  stamp: 
+    secs: 1695770447
+    nsecs: 634256124
+  frame_id: ''
+time: 231752.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 217
+  stamp: 
+    secs: 1695770449
+    nsecs: 140993833
+  frame_id: ''
+time: 231753.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 218
+  stamp: 
+    secs: 1695770450
+    nsecs: 647782087
+  frame_id: ''
+time: 231754.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 219
+  stamp: 
+    secs: 1695770452
+    nsecs: 154477834
+  frame_id: ''
+time: 231755.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 220
+  stamp: 
+    secs: 1695770455
+    nsecs: 166056156
+  frame_id: ''
+time: 231756.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 221
+  stamp: 
+    secs: 1695770456
+    nsecs: 672790527
+  frame_id: ''
+time: 231757.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 222
+  stamp: 
+    secs: 1695770458
+    nsecs: 179616928
+  frame_id: ''
+time: 231758.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 223
+  stamp: 
+    secs: 1695770459
+    nsecs: 686479091
+  frame_id: ''
+time: 231759.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 224
+  stamp: 
+    secs: 1695770461
+    nsecs: 193079948
+  frame_id: ''
+time: 231800.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 225
+  stamp: 
+    secs: 1695770464
+    nsecs: 204750299
+  frame_id: ''
+time: 231801.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 226
+  stamp: 
+    secs: 1695770465
+    nsecs: 711473703
+  frame_id: ''
+time: 231802.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 227
+  stamp: 
+    secs: 1695770467
+    nsecs: 218133687
+  frame_id: ''
+time: 231803.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 228
+  stamp: 
+    secs: 1695770468
+    nsecs: 724941730
+  frame_id: ''
+time: 231804.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 229
+  stamp: 
+    secs: 1695770470
+    nsecs: 231714725
+  frame_id: ''
+time: 231805.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 230
+  stamp: 
+    secs: 1695770473
+    nsecs: 243506669
+  frame_id: ''
+time: 231806.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 231
+  stamp: 
+    secs: 1695770474
+    nsecs: 750333070
+  frame_id: ''
+time: 231807.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 232
+  stamp: 
+    secs: 1695770476
+    nsecs: 257127285
+  frame_id: ''
+time: 231808.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 233
+  stamp: 
+    secs: 1695770477
+    nsecs: 763940334
+  frame_id: ''
+time: 231809.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 234
+  stamp: 
+    secs: 1695770479
+    nsecs: 270747423
+  frame_id: ''
+time: 231810.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 235
+  stamp: 
+    secs: 1695770482
+    nsecs: 282485723
+  frame_id: ''
+time: 231811.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 236
+  stamp: 
+    secs: 1695770483
+    nsecs: 789245843
+  frame_id: ''
+time: 231812.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 237
+  stamp: 
+    secs: 1695770485
+    nsecs: 296078443
+  frame_id: ''
+time: 231813.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 238
+  stamp: 
+    secs: 1695770486
+    nsecs: 802856206
+  frame_id: ''
+time: 231814.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 239
+  stamp: 
+    secs: 1695770488
+    nsecs: 309490203
+  frame_id: ''
+time: 231815.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 240
+  stamp: 
+    secs: 1695770491
+    nsecs: 321154117
+  frame_id: ''
+time: 231816.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 241
+  stamp: 
+    secs: 1695770492
+    nsecs: 827892065
+  frame_id: ''
+time: 231817.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 242
+  stamp: 
+    secs: 1695770494
+    nsecs: 334704637
+  frame_id: ''
+time: 231818.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 243
+  stamp: 
+    secs: 1695770495
+    nsecs: 841471910
+  frame_id: ''
+time: 231819.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 244
+  stamp: 
+    secs: 1695770497
+    nsecs: 348296642
+  frame_id: ''
+time: 231820.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 245
+  stamp: 
+    secs: 1695770500
+    nsecs: 360210418
+  frame_id: ''
+time: 231821.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 246
+  stamp: 
+    secs: 1695770501
+    nsecs: 867211103
+  frame_id: ''
+time: 231822.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 247
+  stamp: 
+    secs: 1695770503
+    nsecs: 373895645
+  frame_id: ''
+time: 231823.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 248
+  stamp: 
+    secs: 1695770504
+    nsecs: 880658388
+  frame_id: ''
+time: 231824.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 249
+  stamp: 
+    secs: 1695770506
+    nsecs: 387426614
+  frame_id: ''
+time: 231825.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 250
+  stamp: 
+    secs: 1695770509
+    nsecs: 399089813
+  frame_id: ''
+time: 231826.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 251
+  stamp: 
+    secs: 1695770510
+    nsecs: 905801534
+  frame_id: ''
+time: 231827.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 252
+  stamp: 
+    secs: 1695770512
+    nsecs: 412828922
+  frame_id: ''
+time: 231828.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 253
+  stamp: 
+    secs: 1695770513
+    nsecs: 919471263
+  frame_id: ''
+time: 231829.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 254
+  stamp: 
+    secs: 1695770515
+    nsecs: 426116466
+  frame_id: ''
+time: 231830.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 255
+  stamp: 
+    secs: 1695770518
+    nsecs: 437525272
+  frame_id: ''
+time: 231831.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 256
+  stamp: 
+    secs: 1695770519
+    nsecs: 944425106
+  frame_id: ''
+time: 231832.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 257
+  stamp: 
+    secs: 1695770521
+    nsecs: 452149391
+  frame_id: ''
+time: 231833.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 258
+  stamp: 
+    secs: 1695770522
+    nsecs: 958913803
+  frame_id: ''
+time: 231834.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 259
+  stamp: 
+    secs: 1695770524
+    nsecs: 465425729
+  frame_id: ''
+time: 231835.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 260
+  stamp: 
+    secs: 1695770527
+    nsecs: 478505134
+  frame_id: ''
+time: 231836.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 261
+  stamp: 
+    secs: 1695770528
+    nsecs: 985744476
+  frame_id: ''
+time: 231837.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 262
+  stamp: 
+    secs: 1695770530
+    nsecs: 492996931
+  frame_id: ''
+time: 231838.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 263
+  stamp: 
+    secs: 1695770532
+    nsecs:    117301
+  frame_id: ''
+time: 231839.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 264
+  stamp: 
+    secs: 1695770533
+    nsecs: 507648706
+  frame_id: ''
+time: 231840.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 265
+  stamp: 
+    secs: 1695770536
+    nsecs: 520429611
+  frame_id: ''
+time: 231841.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 266
+  stamp: 
+    secs: 1695770538
+    nsecs:  27100563
+  frame_id: ''
+time: 231842.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 62.9
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 267
+  stamp: 
+    secs: 1695770539
+    nsecs: 534557342
+  frame_id: ''
+time: 231843.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 268
+  stamp: 
+    secs: 1695770541
+    nsecs:  41436433
+  frame_id: ''
+time: 231844.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 269
+  stamp: 
+    secs: 1695770542
+    nsecs: 547998666
+  frame_id: ''
+time: 231845.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 270
+  stamp: 
+    secs: 1695770545
+    nsecs: 559589385
+  frame_id: ''
+time: 231846.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 271
+  stamp: 
+    secs: 1695770547
+    nsecs:  66345453
+  frame_id: ''
+time: 231847.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 272
+  stamp: 
+    secs: 1695770548
+    nsecs: 573007583
+  frame_id: ''
+time: 231848.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 273
+  stamp: 
+    secs: 1695770550
+    nsecs:  79347848
+  frame_id: ''
+time: 231849.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 274
+  stamp: 
+    secs: 1695770551
+    nsecs: 586070299
+  frame_id: ''
+time: 231850.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 275
+  stamp: 
+    secs: 1695770554
+    nsecs: 599104404
+  frame_id: ''
+time: 231851.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 276
+  stamp: 
+    secs: 1695770556
+    nsecs: 107099294
+  frame_id: ''
+time: 231852.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 277
+  stamp: 
+    secs: 1695770557
+    nsecs: 613837242
+  frame_id: ''
+time: 231853.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 278
+  stamp: 
+    secs: 1695770559
+    nsecs: 120343446
+  frame_id: ''
+time: 231854.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 279
+  stamp: 
+    secs: 1695770560
+    nsecs: 627166509
+  frame_id: ''
+time: 231855.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287166666667
+alt: 63.0
+utm_easting: 325013.850438088
+utm_northing: 4685294.654289476
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 280
+  stamp: 
+    secs: 1695770563
+    nsecs: 638920783
+  frame_id: ''
+time: 231856.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 281
+  stamp: 
+    secs: 1695770565
+    nsecs: 145746231
+  frame_id: ''
+time: 231857.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 282
+  stamp: 
+    secs: 1695770566
+    nsecs: 652644157
+  frame_id: ''
+time: 231858.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 283
+  stamp: 
+    secs: 1695770568
+    nsecs: 159654617
+  frame_id: ''
+time: 231859.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 284
+  stamp: 
+    secs: 1695770569
+    nsecs: 666547060
+  frame_id: ''
+time: 231900.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 285
+  stamp: 
+    secs: 1695770572
+    nsecs: 678727626
+  frame_id: ''
+time: 231901.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 286
+  stamp: 
+    secs: 1695770574
+    nsecs: 686459064
+  frame_id: ''
+time: 231902.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 287
+  stamp: 
+    secs: 1695770576
+    nsecs: 193218231
+  frame_id: ''
+time: 231903.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 288
+  stamp: 
+    secs: 1695770577
+    nsecs: 700049400
+  frame_id: ''
+time: 231904.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 289
+  stamp: 
+    secs: 1695770579
+    nsecs: 206811189
+  frame_id: ''
+time: 231905.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 290
+  stamp: 
+    secs: 1695770582
+    nsecs: 218305587
+  frame_id: ''
+time: 231906.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 291
+  stamp: 
+    secs: 1695770583
+    nsecs: 725120782
+  frame_id: ''
+time: 231907.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 292
+  stamp: 
+    secs: 1695770585
+    nsecs: 231311082
+  frame_id: ''
+time: 231908.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 293
+  stamp: 
+    secs: 1695770586
+    nsecs: 737995862
+  frame_id: ''
+time: 231909.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 294
+  stamp: 
+    secs: 1695770588
+    nsecs: 244742870
+  frame_id: ''
+time: 231910.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 295
+  stamp: 
+    secs: 1695770591
+    nsecs: 256232976
+  frame_id: ''
+time: 231911.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 296
+  stamp: 
+    secs: 1695770592
+    nsecs: 762999773
+  frame_id: ''
+time: 231912.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 297
+  stamp: 
+    secs: 1695770594
+    nsecs: 269651412
+  frame_id: ''
+time: 231913.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 298
+  stamp: 
+    secs: 1695770595
+    nsecs: 776411294
+  frame_id: ''
+time: 231914.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 299
+  stamp: 
+    secs: 1695770597
+    nsecs: 283121109
+  frame_id: ''
+time: 231915.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 300
+  stamp: 
+    secs: 1695770600
+    nsecs: 294525384
+  frame_id: ''
+time: 231916.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 301
+  stamp: 
+    secs: 1695770601
+    nsecs: 801245689
+  frame_id: ''
+time: 231917.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 302
+  stamp: 
+    secs: 1695770603
+    nsecs: 308049440
+  frame_id: ''
+time: 231918.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 303
+  stamp: 
+    secs: 1695770604
+    nsecs: 814784049
+  frame_id: ''
+time: 231919.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 304
+  stamp: 
+    secs: 1695770606
+    nsecs: 321456670
+  frame_id: ''
+time: 231920.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 305
+  stamp: 
+    secs: 1695770609
+    nsecs: 333036899
+  frame_id: ''
+time: 231921.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 306
+  stamp: 
+    secs: 1695770610
+    nsecs: 839787006
+  frame_id: ''
+time: 231922.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 307
+  stamp: 
+    secs: 1695770612
+    nsecs: 346611738
+  frame_id: ''
+time: 231923.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 308
+  stamp: 
+    secs: 1695770613
+    nsecs: 853318691
+  frame_id: ''
+time: 231924.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 309
+  stamp: 
+    secs: 1695770615
+    nsecs: 359888076
+  frame_id: ''
+time: 231925.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 310
+  stamp: 
+    secs: 1695770618
+    nsecs: 371529817
+  frame_id: ''
+time: 231926.0
+frame_id: "GPS1_FRAME"
+lat: 42.30024
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.9878257413
+utm_northing: 4685294.650862006
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 311
+  stamp: 
+    secs: 1695770619
+    nsecs: 878309726
+  frame_id: ''
+time: 231927.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 312
+  stamp: 
+    secs: 1695770621
+    nsecs: 384959697
+  frame_id: ''
+time: 231928.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 313
+  stamp: 
+    secs: 1695770622
+    nsecs: 891700506
+  frame_id: ''
+time: 231929.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 314
+  stamp: 
+    secs: 1695770624
+    nsecs: 398261547
+  frame_id: ''
+time: 231930.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 315
+  stamp: 
+    secs: 1695770627
+    nsecs: 410130262
+  frame_id: ''
+time: 231931.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 316
+  stamp: 
+    secs: 1695770628
+    nsecs: 916817426
+  frame_id: ''
+time: 231932.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 317
+  stamp: 
+    secs: 1695770630
+    nsecs: 423625469
+  frame_id: ''
+time: 231933.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 318
+  stamp: 
+    secs: 1695770631
+    nsecs: 930376052
+  frame_id: ''
+time: 231934.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 319
+  stamp: 
+    secs: 1695770633
+    nsecs: 437057733
+  frame_id: ''
+time: 231935.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 320
+  stamp: 
+    secs: 1695770636
+    nsecs: 448474884
+  frame_id: ''
+time: 231936.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 321
+  stamp: 
+    secs: 1695770637
+    nsecs: 954741239
+  frame_id: ''
+time: 231937.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 322
+  stamp: 
+    secs: 1695770639
+    nsecs: 461379766
+  frame_id: ''
+time: 231938.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 323
+  stamp: 
+    secs: 1695770640
+    nsecs: 968159198
+  frame_id: ''
+time: 231939.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 324
+  stamp: 
+    secs: 1695770642
+    nsecs: 474879503
+  frame_id: ''
+time: 231940.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 325
+  stamp: 
+    secs: 1695770645
+    nsecs: 487138032
+  frame_id: ''
+time: 231941.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 326
+  stamp: 
+    secs: 1695770646
+    nsecs: 993887662
+  frame_id: ''
+time: 231942.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 327
+  stamp: 
+    secs: 1695770648
+    nsecs: 500592708
+  frame_id: ''
+time: 231943.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 328
+  stamp: 
+    secs: 1695770650
+    nsecs:   7409572
+  frame_id: ''
+time: 231944.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 329
+  stamp: 
+    secs: 1695770651
+    nsecs: 514206647
+  frame_id: ''
+time: 231945.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 330
+  stamp: 
+    secs: 1695770654
+    nsecs: 526548624
+  frame_id: ''
+time: 231946.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 331
+  stamp: 
+    secs: 1695770656
+    nsecs:  33437013
+  frame_id: ''
+time: 231947.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 332
+  stamp: 
+    secs: 1695770657
+    nsecs: 540581941
+  frame_id: ''
+time: 231948.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 333
+  stamp: 
+    secs: 1695770659
+    nsecs:  47356367
+  frame_id: ''
+time: 231949.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 334
+  stamp: 
+    secs: 1695770660
+    nsecs: 554395437
+  frame_id: ''
+time: 231950.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 335
+  stamp: 
+    secs: 1695770663
+    nsecs: 566135883
+  frame_id: ''
+time: 231951.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 336
+  stamp: 
+    secs: 1695770665
+    nsecs:  73011636
+  frame_id: ''
+time: 231952.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 337
+  stamp: 
+    secs: 1695770666
+    nsecs: 579635620
+  frame_id: ''
+time: 231953.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 338
+  stamp: 
+    secs: 1695770668
+    nsecs:  86377382
+  frame_id: ''
+time: 231954.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 339
+  stamp: 
+    secs: 1695770669
+    nsecs: 593089818
+  frame_id: ''
+time: 231955.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 340
+  stamp: 
+    secs: 1695770672
+    nsecs: 604665756
+  frame_id: ''
+time: 231956.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 341
+  stamp: 
+    secs: 1695770674
+    nsecs: 111454248
+  frame_id: ''
+time: 231957.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 342
+  stamp: 
+    secs: 1695770675
+    nsecs: 618950366
+  frame_id: ''
+time: 231958.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 343
+  stamp: 
+    secs: 1695770677
+    nsecs: 125558614
+  frame_id: ''
+time: 231959.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 344
+  stamp: 
+    secs: 1695770678
+    nsecs: 632348060
+  frame_id: ''
+time: 232000.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 345
+  stamp: 
+    secs: 1695770681
+    nsecs: 643446922
+  frame_id: ''
+time: 232001.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 346
+  stamp: 
+    secs: 1695770683
+    nsecs: 150202989
+  frame_id: ''
+time: 232002.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 347
+  stamp: 
+    secs: 1695770684
+    nsecs: 656867980
+  frame_id: ''
+time: 232003.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 348
+  stamp: 
+    secs: 1695770686
+    nsecs: 163519382
+  frame_id: ''
+time: 232004.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 349
+  stamp: 
+    secs: 1695770687
+    nsecs: 670238494
+  frame_id: ''
+time: 232005.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 350
+  stamp: 
+    secs: 1695770690
+    nsecs: 682152271
+  frame_id: ''
+time: 232006.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 351
+  stamp: 
+    secs: 1695770692
+    nsecs: 188931941
+  frame_id: ''
+time: 232007.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 352
+  stamp: 
+    secs: 1695770693
+    nsecs: 695741891
+  frame_id: ''
+time: 232008.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 353
+  stamp: 
+    secs: 1695770695
+    nsecs: 202403306
+  frame_id: ''
+time: 232009.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 354
+  stamp: 
+    secs: 1695770696
+    nsecs: 709105968
+  frame_id: ''
+time: 232010.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 355
+  stamp: 
+    secs: 1695770699
+    nsecs: 720552682
+  frame_id: ''
+time: 232011.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 356
+  stamp: 
+    secs: 1695770701
+    nsecs: 227376937
+  frame_id: ''
+time: 232012.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 357
+  stamp: 
+    secs: 1695770702
+    nsecs: 734180450
+  frame_id: ''
+time: 232013.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 358
+  stamp: 
+    secs: 1695770704
+    nsecs: 240924596
+  frame_id: ''
+time: 232014.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"header: 
+  seq: 359
+  stamp: 
+    secs: 1695770705
+    nsecs: 747622728
+  frame_id: ''
+time: 232015.0
+frame_id: "GPS1_FRAME"
+lat: 42.30023833333333
+lon: -71.12287
+alt: 63.0
+utm_easting: 325013.98320872
+utm_northing: 4685294.465792028
+zone_num: 19
+zone_letter: "T"
